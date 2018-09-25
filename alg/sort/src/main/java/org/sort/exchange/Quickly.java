@@ -25,6 +25,7 @@ public class Quickly {
 	 *  1 2 4 5 6 7  3
 	 *  
 	 *  https://blog.csdn.net/Holmofy/article/details/71168530
+	 *  //https://www.cnblogs.com/dapeng-bupt/p/7922719.html
 	 */
 	
 	
